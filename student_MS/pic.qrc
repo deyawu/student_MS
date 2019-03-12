@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>picture/add.ico</file>
+        <file>picture/delete.ico</file>
+        <file>picture/modify.ico</file>
+        <file>picture/new.ico</file>
+        <file>picture/open.ico</file>
+        <file>picture/save.ico</file>
+        <file>picture/student.ico</file>
+        <file>picture/clock.ico</file>
+        <file>picture/close.ico</file>
+        <file>picture/name.ico</file>
+        <file>picture/find.ico</file>
+    </qresource>
+</RCC>
